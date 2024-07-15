@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from lightgbm import LGBMClassifier
 
-
+# Making an API
 app = FastAPI()
 pickle_in = open(r"Models\LGBMModel.sav","rb")
 model=pickle.load(pickle_in)
