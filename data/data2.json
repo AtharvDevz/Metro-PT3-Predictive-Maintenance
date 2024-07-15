@@ -1,0 +1,17 @@
+{
+    "TP2": -0.0120000000000004,
+    "TP3": 9.162,
+    "H1": 9.146,
+    "DV_pressure": -0.0240000000000009,
+    "Reservoirs": 9.164,
+    "Oil_temperature": 53.325,
+    "Motor_current": 0.04,
+    "COMP": 1,
+    "DV_eletric": 0,
+    "Towers": 1,
+    "MPG": 1,
+    "LPS": 0,
+    "Pressure_switch": 1,
+    "Oil_level": 1,
+    "Caudal_impulses": 1
+}
